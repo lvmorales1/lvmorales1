@@ -1,14 +1,5 @@
-### Lucas Morales 
-
-- Studying Computer Science
-- Systems Development Technician
-<br/>
-  <a href="https://www.linkedin.com/in/lucasvmorales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <br/>
- 
- <br>
-<div>
-  <a href="https://github.com/lvmorales1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvmorales1&layout=compact&langs_count=7&theme=dark"/>
-</div> 
-</div>
+<p align="center">
+  <img alt="GitHub Stats" style="height:110%;" src="https://github-readme-stats.vercel.app/api?username=lvmorales1&count_private=true&theme=github_dark&show_icons=true&hide_border=true&hide_title=true&hide_rank=true">
+  &nbsp
+  <img alt="Top Languages" style="height:110%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvmorales1&count_private=true&theme=github_dark&hide_border=true&layout=compact&langs_count=6&hide=html,c%23">
+</p>
